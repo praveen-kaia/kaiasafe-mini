@@ -1,0 +1,30 @@
+version: "3.9"
+services:
+  kaiasafemini-db:
+    image: postgres:10-alpine
+    ports:
+      - "5535:5432"
+    restart: on-failure
+    environment:
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - ./data/kaiasafemini-db:/var/lib/postgresql/data
+  
+  # kaiasafemini-api:
+  #   image: klaytn/klaytn-kaiasafemini-api:v0.0.0
+  #   build: .
+  #   ports:
+  #     - "5003:3000"
+  #   restart: on-failure
+  #   env_file:
+  #     - .env
+  #   depends_on:
+  #     - kaiasafemini-db
+  #   working_dir: /usr/src/app
+
+  # kaiasafemini-ui:
+  #   image: klaytn/klaytn-kaiasafemini-ui:v0.0.0
+  #   ports:
+  #     - "5001:3000"
+  #   restart: on-failure
+  #   working_dir: /app

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 228" width="228" height="228">
+	<title>logo-round-svg</title>
+	<defs>
+		<image  width="228" height="228" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAADkAQMAAACymRrOAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAzPM6xE+9JwAAAAJ0Uk5TAP9bkSK1AAACpElEQVR4nO3Y3WpTQRAA4FRT6oXQgrcF0/cQ9MEEW+qDteCDGPABGuiFQuqxyfzs/OfsOVG8aC9K40c4O7O7M3M8Waifk9+73/ef6KPWs5+VfrkuFL6a6flDpR/vKh0Whb7eVoqPTfT990oh2kxxUbFCkjOlJceKeUyUAoqVAooVs5wohRsrhRsqhztBOdwJyskIlZMxQTlVoXKqjq6c5n5tae5XPpFH17aB/dq2t1B1Ka3+elPpelUpPzLUm+tY4Vjp+mV0eFXp03K66nD7dHPxok3nZHLODtZnoz5X6Zkcc57Xq0p1sqzqRYf3lyG8+90qas6RVdTJ7u/W8baWEmlrC4Gaxxo1jzXa+lykZlFGh0WhJlNG7ZK1mt01apfcoyaPRm1AHerCVerCVWp3qEdduErt/ml1yehQlwypPhnj1adKqjsZHeoTOV59mscrbcK+wkLwXqFIZgoF1iluEZRup4NYSabYbhLFup4odgyruL2J4vZiL0pU3Smr1E5ipd7bp3BwqI1NUWqfU5Qas1U4krqgHkf1MBEqDyL/WHl4+q+UJ5wXPagj8ww38m8o3Kou5TM5R8WdG6H7z3wHxQAf3N8pSlUFmkRWc2KlelUrtIGkTmIbSFQWel+fE8VUyjd73xcSxWRhP3XdCtKB/TTpZU5ll6ShJlYaapzuF02jh1DxLBouvO6WRXOYUIzxOVs8D3l9/sRTi1D6t+GKMFLxM1rr+WrOXFdPjHNm0XrKPaD1/FxP5rXOeV/wqZRav6fU7zgH3p7qNy8XsNL6nc4FrLR+lxQBb5dORUiPbyv9cem1hfTtg9e26K+fvfKih9OtV96Hp7NAOdObd5FSLm9uI+VSZDssLgceu4wVHry5iFX0Tg5E/L1L13qV6e7L+v+v/gDTnsn01ZpbSQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer_2">
+		<use id="KAIA BRANDMARK_BLACK" href="#img1" x="0" y="0"/>
+	</g>
+</svg>
